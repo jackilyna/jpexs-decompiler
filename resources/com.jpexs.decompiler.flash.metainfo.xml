@@ -12,6 +12,7 @@
 	<description>
 		<p>Open Source Flash SWF decompiler and editor. Extract resources, convert SWF to FLA, edit ActionScript, replace images, sounds, texts or fonts. Various output formats available. Works with Java on Linux, Windows and macOS.</p>
 	</description>
+	
 	<screenshots>
 		<screenshot type="default">
 			<caption>ActionScript 2 decompilation and its P-code view</caption>
