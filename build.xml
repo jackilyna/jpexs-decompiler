@@ -11,7 +11,6 @@
         <fileset dir="${ant.lib.dir}" includes="**/*.jar"/>
     </path>    
     
-    
     <taskdef name="mkbom" classname="com.jpexs.jbomutils.ant.MkBomTask" classpathref="ant.lib.classpath" />
     <taskdef name="xar" classname="com.jpexs.xar.ant.XarTask" classpathref="ant.lib.classpath" />
     <taskdef uri="antlib:org.jacoco.ant" resource="org/jacoco/ant/antlib.xml" classpathref="ant.lib.classpath" />
